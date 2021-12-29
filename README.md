@@ -63,6 +63,19 @@ Rename `.env_example` to `.env`
 
 COPY your `API_KEY` to the API_KEY variable located in the `.env` file.
 
+
+Run the application
+
+```
+python app.py
+
+```
+
+Real Estate Dashboard
+
+![screenshot1](screenshots/Screenshot.png)
+
+
 Open code in editor. Using Vscode here. See top to have it downloaded
 
 ```
